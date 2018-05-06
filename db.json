@@ -8,7 +8,30 @@
     { "id": 1, "body": "comentario 1", "postId": 1 },
     { "id": 2, "body": "comentario 2", "postId": 1 }
   ],
-  "orders": [],
+  "orders": [
+    {
+      "Agente":"en01",
+      "Uof":"GAR1",
+      "Zona":"10YES-REE------0",
+      "Comentario":"",
+      "IdContrato":22,
+      "BidAsk":"V",
+      "CantidadInicial":34.67,
+      "Precio":56.43,
+      "User":"OFFLINE"
+   },
+   {  
+      "Agente":"en01",
+      "Uof":"GAR1",
+      "Zona":"10YES-REE------0",
+      "Comentario":"",
+      "IdContrato":22,
+      "BidAsk":"V",
+      "CantidadInicial":34.67,
+      "Precio":56.43,
+      "User":"OFFLINE"
+   }
+  ],
   "profile": {
     "name": "typicode"
   }
