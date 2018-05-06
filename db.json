@@ -8,6 +8,7 @@
     { "id": 1, "body": "comentario 1", "postId": 1 },
     { "id": 2, "body": "comentario 2", "postId": 1 }
   ],
+  "orders": [],
   "profile": {
     "name": "typicode"
   }
