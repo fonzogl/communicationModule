@@ -8,9 +8,6 @@
   "profile": {
     "name": "typicode"
   },
-   "cancelation":{  
-      "result":"OK"
-   },
   "publishOrders":[  
       {  
          "id":1,
