@@ -1,14 +1,34 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
   "profile": {
     "name": "typicode"
   },
   "publishOrders":[  
+      {  
+         "id":1,
+         "Agente":"en01",
+         "Uof":"GAR1",
+         "Zona":"10YES-REE------0",
+         "Comentario":"",
+         "IdContrato":22,
+         "BidAsk":"V",
+         "CantidadInicial":34.67,
+         "Precio":56.43,
+         "User":"OFFLINE"
+      },
+      {  
+         "id":2,
+         "Agente":"en01",
+         "Uof":"GAR1",
+         "Zona":"10YES-REE------0",
+         "Comentario":"",
+         "IdContrato":22,
+         "BidAsk":"V",
+         "CantidadInicial":34.67,
+         "Precio":56.43,
+         "User":"OFFLINE"
+      }
+   ],
+   "getMyTrades":[  
       {  
          "id":1,
          "Agente":"en01",
