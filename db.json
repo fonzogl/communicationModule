@@ -86,8 +86,7 @@
       "User":"OFFLINE"
    }
   ],
-  "cancelation": {"result": "OK"},
-  "profile": {
-    "name": "typicode"
+  "cancelation": {
+    "result": "OK"
   }
 }
